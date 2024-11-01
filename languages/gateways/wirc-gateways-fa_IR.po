@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooIRAN Commerce v0.1.0\n"
+"POT-Creation-Date: 2014-06-18 19:28+0330\n"
+"PO-Revision-Date: 2014-06-18 19:29+0330\n"
+"Last-Translator: hadi khosrojerdi <rss_samuel@yahoo.com>\n"
+"Language-Team: Hadi Khosrojerdi <rss_samuel@yahoo.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ../../classes/gateways\n"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:14
+msgid "ParsPal"
+msgstr "پارس پال"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:15
+msgid "ParsPal Payment Gateway"
+msgstr "دروازه پرداخت پارس پال"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:39
+msgid "No action has not yet been done."
+msgstr "هیچ فرایندی انجام نشده است"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:40
+msgid "The amount paid is not identical with the requested amount."
+msgstr "مقدار واریز شده با مقدار درخواست شده برابر نیست"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:41
+msgid "Previously has been paid."
+msgstr "پیش از این پرداخت شده است"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:42
+msgid "The receipt number is invalid."
+msgstr "شماره رسید نامعتبر است"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:43
+msgid "Payment completed successfully."
+msgstr "پرداخت با موفقیت انجام شد."
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:44
+msgid "Your payment gateway is disabled."
+msgstr "دروازه پرداخت شما غیرفعال شده است"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:45
+msgid "Your payment gateway is expired."
+msgstr "دروازه پرداخت شما منقضی شده است"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:46
+msgid "Your payment gateway is blocked."
+msgstr "دروازه پرداخت شما مسدود شده است"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:47
+msgid "Your payment gateway merchent id or password is invalid."
+msgstr "شناسه تجاری دروازه پرداخت یا رمز عبور شما  نامعتبر است"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:48
+msgid "The user is inactive."
+msgstr "کاربر غیرفعال می باشد"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:49
+msgid "The server IP-address is invalid."
+msgstr "آدرس آیپی سرور نامعتبر است"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:50
+msgid "The action was successful."
+msgstr "فرایند موفقیت آمیز بود"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:51
+msgid "The action was fails."
+msgstr "فرایند شکست خورد"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:61
+msgid "Enable/Disable"
+msgstr "فعال کردن / غیرفعال کردن"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:63
+msgid "Enable ParsPal Gateway."
+msgstr "فعال کردن دروازه پارس پال"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:67
+msgid "Title"
+msgstr "عنوان"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:69
+msgid "This will be shown in the order table."
+msgstr "این در جدول سفارش نمایش داده می شود."
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:73
+msgid "Description"
+msgstr "توضیحات"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:75
+msgid ""
+"Description about ParsPal gateway, this will be shown in the order table."
+msgstr "توضیحات درباره دروازه پارس پال، این در جدول سفارش نمایش داده می شود."
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:79
+msgid "Merchant Gateway ID"
+msgstr "شناسه دروازه تجاری"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:84
+msgid "Merchant Gateway Password"
+msgstr "رمز عبور دروازه تجاری"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:156
+msgid "Cancel the payment action."
+msgstr "لغو کردن فرایند پرداخت"
+
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:178
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:192
+#: ../../classes/gateways/WIRC_ParsPal_Gateway.class.php:210
+#, php-format
+msgid "ParsPal Receipt Number: %d"
+msgstr "شماره رسید پارس پال: %d"
+
+#~ msgid "ParsPal Gateway Description"
+#~ msgstr "توضیحات دروازه پارس پال"
+
+#~ msgid "Site IP Address"
+#~ msgstr "آیپی آدرس سایت"

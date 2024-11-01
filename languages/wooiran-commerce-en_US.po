@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooIRAN Commerce v0.1.0\n"
+"POT-Creation-Date: 2014-06-18 19:25+0330\n"
+"PO-Revision-Date: 2014-06-18 19:25+0330\n"
+"Last-Translator: hadi khosrojerdi <rss_samuel@yahoo.com>\n"
+"Language-Team: Hadi Khosrojerdi <rss_samuel@yahoo.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wooiran_commerce.php:155
+msgid "Iran Rial"
+msgstr ""
+
+#: ../wooiran_commerce.php:156
+msgid "Iran Toman"
+msgstr ""
+
+#: ../classes/Soap_WSDL.class.php:1
+#, php-format
+msgid "The wsdl_url property is not set in the class %s"
+msgstr ""
+
+#: ../classes/WIRC_Settings.class.php:12
+msgid "WooIRAN"
+msgstr ""
+
+#: ../classes/WIRC_Settings.class.php:38
+msgid "WooIRAN Commerce Settings"
+msgstr ""
+
+#: ../classes/WIRC_Settings.class.php:40
+msgid "Site IP Address"
+msgstr ""
+
+#: ../classes/WIRC_Settings.class.php:41
+msgid ""
+"Get your site IP address. This can be helpful for your merchant gateway "
+"account."
+msgstr ""
+
+#: ../classes/WIRC_Settings.class.php:47
+msgid "BACS"
+msgstr ""
+
+#: ../classes/WIRC_Settings.class.php:48
+msgid "Remove BACS gateway"
+msgstr ""
+
+#: ../classes/WIRC_Settings.class.php:54
+msgid "Cash on Delivery"
+msgstr ""
+
+#: ../classes/WIRC_Settings.class.php:55
+msgid "Remove cash on delivery"
+msgstr ""
+
+#: ../classes/WIRC_Settings.class.php:61
+msgid "Cheque"
+msgstr ""
+
+#: ../classes/WIRC_Settings.class.php:62
+msgid "Remove Cheque gateway"
+msgstr ""
+
+#: ../classes/WIRC_Settings.class.php:68
+msgid "Mijireh Checkout"
+msgstr ""
+
+#: ../classes/WIRC_Settings.class.php:69
+msgid "Remove the mijireh checkout"
+msgstr ""
+
+#: ../classes/WIRC_Settings.class.php:75
+msgid "PayPal"
+msgstr ""
+
+#: ../classes/WIRC_Settings.class.php:76
+msgid "Remove PayPal gateway"
+msgstr ""
+
+#: ../classes/WIRC_Settings.class.php:82
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:14
+msgid "ParsPal"
+msgstr ""
+
+#: ../classes/WIRC_Settings.class.php:83
+msgid "Remove ParsPal gateway"
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:15
+msgid "ParsPal Payment Gateway"
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:39
+msgid "No action has not yet been done."
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:40
+msgid "The amount paid is not identical with the requested amount."
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:41
+msgid "Previously has been paid."
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:42
+msgid "The receipt number is invalid."
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:43
+msgid "Payment completed successfully."
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:44
+msgid "Your payment gateway is disabled."
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:45
+msgid "Your payment gateway is expired."
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:46
+msgid "Your payment gateway is blocked."
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:47
+msgid "Your payment gateway merchent id or password is invalid."
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:48
+msgid "The user is inactive."
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:49
+msgid "The server IP-address is invalid."
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:50
+msgid "The action was successful."
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:51
+msgid "The action was fails."
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:61
+msgid "Enable/Disable"
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:63
+msgid "Enable ParsPal Gateway."
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:67
+msgid "Title"
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:69
+msgid "This will be shown in the order table."
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:73
+msgid "Description"
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:75
+msgid ""
+"Description about ParsPal gateway, this will be shown in the order table."
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:79
+msgid "Merchant Gateway ID"
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:84
+msgid "Merchant Gateway Password"
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:156
+msgid "Cancel the payment action."
+msgstr ""
+
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:178
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:192
+#: ../classes/gateways/WIRC_ParsPal_Gateway.class.php:210
+#, php-format
+msgid "ParsPal Receipt Number: %d"
+msgstr ""
